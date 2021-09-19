@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Online Store - Project</title>
+    <title>New Project</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
     <link rel="stylesheet" href={{url('assets/css/style.css')}}>
